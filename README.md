@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varu567
+- 👋 Hi, I’m @varun
 - 👀 I’m interested in ...app development 
 - 🌱 I’m currently learning ...data structures 
 - 💞️ I’m looking to collaborate on ...app building 
